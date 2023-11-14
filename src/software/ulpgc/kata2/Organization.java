@@ -22,7 +22,6 @@ public class Organization {
     }
 
     public String getId() {
-
         return id;
     }
 
@@ -68,4 +67,3 @@ public class Organization {
                 '}';
     }
 }
-
