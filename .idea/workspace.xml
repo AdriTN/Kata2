@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306c0698-32e9-4662-96ec-adc19eee9ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Organization.java" afterDir="false" />
+    <list default="true" id="306c0698-32e9-4662-96ec-adc19eee9ba8" name="Changes" comment="Class Organization created.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Organization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,9 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1699954543660</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class Organization created">
+      <option name="closed" value="true" />
+      <created>1699955772530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699955772530</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Class Organization created.">
+      <option name="closed" value="true" />
+      <created>1699956547320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699956547320</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Class Organization created" />
+    <MESSAGE value="Class Organization created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Organization created." />
   </component>
 </project>
