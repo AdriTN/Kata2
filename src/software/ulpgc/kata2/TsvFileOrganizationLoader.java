@@ -17,7 +17,7 @@ public class TsvFileOrganizationLoader implements OrganizationLoader{
     }
 
     @Override
-    public List<Organization> load() {
+    public List<Object> load() {
         try{
             return this.load(new FileReader(this.file));
         }catch (IOException var2){
@@ -25,7 +25,7 @@ public class TsvFileOrganizationLoader implements OrganizationLoader{
         }
     }
 
-    private List<Organization> load(FileReader fileReader) throws IOException {
+    private List<Object> load(FileReader fileReader) throws IOException {
         return this.load(new BufferedReader(fileReader));
     }
 
