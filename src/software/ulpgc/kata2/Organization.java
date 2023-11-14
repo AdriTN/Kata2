@@ -1,21 +1,24 @@
+package software.ulpgc.kata2;
+
 public class Organization {
+
     private final String id;
     private final String name;
     private final String website;
     private final String country;
     private final String description;
     private final int founded;
-    private final String iindustry;
+    private final String industry;
     private final int employees;
 
-    public Organization(String id, String name, String website, String country, String description, int founded, String iindustry, int employees) {
+    public Organization(String id, String name, String website, String country, String description, int founded, String industry, int employees) {
         this.id = id;
         this.name = name;
         this.website = website;
         this.country = country;
         this.description = description;
         this.founded = founded;
-        this.iindustry = iindustry;
+        this.industry = industry;
         this.employees = employees;
     }
 
@@ -43,8 +46,8 @@ public class Organization {
         return founded;
     }
 
-    public String getIindustry() {
-        return iindustry;
+    public String getIndustry() {
+        return industry;
     }
 
     public int getEmployees() {
@@ -60,7 +63,7 @@ public class Organization {
                 ", country='" + country + '\'' +
                 ", description='" + description + '\'' +
                 ", founded=" + founded +
-                ", iindustry='" + iindustry + '\'' +
+                ", industry='" + industry + '\'' +
                 ", employees=" + employees +
                 '}';
     }
