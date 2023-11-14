@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306c0698-32e9-4662-96ec-adc19eee9ba8" name="Changes" comment="Class Organization created.">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/OrganizationLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/OrganizationProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvFileOrganizationLoader.java" afterDir="false" />
-    </list>
+    <list default="true" id="306c0698-32e9-4662-96ec-adc19eee9ba8" name="Changes" comment="CountryOrganizationProcessor class created." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699958440638</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TsvFileOrganizationLoader class created">
+      <option name="closed" value="true" />
+      <created>1699958985297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699958985297</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CountryOrganizationProcessor class created.">
+      <option name="closed" value="true" />
+      <created>1699959262749</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699959262749</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +133,8 @@
     <MESSAGE value="TsvFileOrganizationLoader Class created." />
     <MESSAGE value="Class Organization created,." />
     <MESSAGE value="Class Organization created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Organization created." />
+    <MESSAGE value="TsvFileOrganizationLoader class created" />
+    <MESSAGE value="CountryOrganizationProcessor class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="CountryOrganizationProcessor class created." />
   </component>
 </project>
