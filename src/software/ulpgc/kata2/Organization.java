@@ -1,7 +1,6 @@
 package software.ulpgc.kata2;
 
 public class Organization {
-
     private final String id;
     private final String name;
     private final String website;
@@ -23,6 +22,7 @@ public class Organization {
     }
 
     public String getId() {
+
         return id;
     }
 
@@ -68,3 +68,4 @@ public class Organization {
                 '}';
     }
 }
+
